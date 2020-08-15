@@ -1,0 +1,71 @@
+
+{% if msg %}
+    <script>
+        alert('{{ msg }}');
+    </script>
+{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGN IN</title>
+</head>
+<body>
+    <div id='content'>
+    <form action="postsign" method="post">
+        {% csrf_token %}
+        <div id="signin">Sign In</div> <br><br>
+        <div ><label>Email :</label> </div> <input type="email" name="email" ><br><br>
+        <div ><label>Password:</label> </div><input type="password" name="pass"><br><br>
+        <br>
+        <input class='butn' type="submit" value="SignIn">
+    </form>
+    <a href="{% url 'signup' %}"><input class='butn' type="submit" value="Signup"></a>
+</div>
+    <style>
+        #signin{
+            font:bold;
+            font-size: 150%;
+            color: blueviolet;
+        }
+        #content{
+            width: 25%;
+            min-width: 300px;
+            height: 300px;
+            text-align: center;
+            margin:auto;
+            margin-top: 10%;
+            border:2px solid black;
+            border-radius: 3%;
+            padding: 2%;
+            background-color: rgb(221, 205, 218);
+            padding-top: 30px;
+        }
+        input{
+            width:90%;
+            border-radius: 5px;
+            height:30px;
+            background-color: rgb(191, 142, 224);
+        }
+        label{
+            font:bold;
+            font-size: 150%;
+        }
+        .butn{
+            background-image:linear-gradient(to bottom right,purple ,white,blue);
+            height:30px;
+            border-radius: 10px;
+            font-size: 125%;
+            font:bold;
+        }
+    </style>
+    <style>
+        body{
+            background-image:linear-gradient(to bottom right,purple ,white,blue,white);
+            background-repeat: no-repeat;
+            background-size: 100vw 100vh;
+        }
+    </style>
+</body>
+</html>

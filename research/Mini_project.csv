@@ -1,0 +1,110 @@
+expierence,location,qualification,salary,sector,job
+0,Hyderabad,B.Tech,100000,Telecom ISP,Field Engineers
+0,Hyderabad,B.Tech,100000,Telecom ISP,UI Developer
+0,Hyderabad,B.Tech,200000,Telecom ISP,Trainee Engineer
+0,Hyderabad,B.Tech,200000,Telecom ISP,SEO intern
+0,Hyderabad,B.Tech,100000,Telecom ISP,Field Engineers
+0,Hyderabad,B.Tech,100000,Telecom ISP,UI Developer
+0,Hyderabad,B.Tech,200000,Telecom ISP,Trainee Engineer
+0,Hyderabad,B.Tech,200000,Telecom ISP,SEO intern
+0,Hyderabad,B.Tech,400000,Telecom ISP,Digital Markating consultant
+0,Hyderabad,B.Tech,400000,Telecom ISP,Digital Markating consultant
+0,Banglore,B.Tech,175000,IT-Software,Web Designer
+0,Rajkot,B.Tech,180000,IT-Software,Software Engineer
+0,Pune,B.Tech,125000,IT-Software,Desktop Engineer
+1,Nagpur,B.Tech,60000,IT-Software,Php Developer
+1,Gurgoan,B.Tech,275000,IT-Software,Data operation Engineer
+1,Surat,B.Tech,100000,IT-Software,Andriod Developer
+1,Agra,B.Tech,275000,IT-Software,Mobile App Developer
+1,Mohali,B.Tech,175000,IT-Software,Mobile App Developer
+1,Ranchi,B.Tech,275000,IT-Software,Telecommunications Engineer
+0,Kochi,B.Tech,60000,IT-Software,Software Engineer
+0,Mumbai,MBA,200000,Sales,Business Development 
+2,Mohali,MBA,3000000,Sales,Business Development 
+0,Mumbai,MBA,175000,Sales,Business Development 
+0,Lucknow,MBA,150000,Sales,Sales Executive
+0,Delhi,MBA,175000,Sales,Sales Coordinator
+0,Banglore,MBA,250000,Sales,Business Development Executive
+2,Banglore,MBA,200000,Sales,Business Development Executive
+0,Banglore,MBA,125000,Sales,Online Sales Executive
+0,Mumbai,MBA,175000,Sales,Sales Associate
+1,Ahmednagar,MBA,150000,Sales,Marketing Executive
+0,Delhi,MBA,125000,Sales,Computer Operator
+1,Tirunavelli,MBA,100000,Sales,Business Development Executive
+0,Delhi,MBA,175000,Sales,Sales Support
+0,Faridabad,MBA,200000,Banking,Management Trainee
+0,Delhi,MBA,200000,Banking,Assistant Credit Manager
+0,Surat,MBA,200000,Finance,Operation Executive
+0,Mumbai,MBA,200000,Finance,Client Service Executive
+0,Mumbai,MBA,200000,Finance,Jr Accountant
+0,Gurgaon,MBA,200000,Marketing,Sr Sales Executive
+0,Chennai,MBA,250000,Marketing,Business and Accounting Manager
+0,Mumbai,MBA,200000,Marketing,Analyst GBS
+0,Ahmedabad,MBA,200000,Marketing,Floor Executive
+0,Gurgaon,CA,500000,Audit,Executive-Audit Assurance
+0,Delhi,CA,200000,Audit,Associate Audit
+0,Pune,CA,400000,Audit,Finance and Accounts
+0,Banglore,CA,200000,IT-Software,Assistant Manager
+0,Mumbai,CA,200000,Audit,HR Consultant
+0,Delhi,B.Com,200000,Banking,Chartered Accountant
+0,Jaipur,B.Com,200000,Audit,Audit Executive
+0,Jaipur,B.Arch,200000,Designing,Graphic Designer
+0,Hyderabad,B.Arch,200000,Designing,BIM Modeller
+0,Delhi,B.Arch,125000,Designing,Design Engineer
+0,Ahmedabad,B.Arch,100000,Designing,Graphic Designer
+0,Banglore,B.Arch,100000,Designing,Graphic Designer
+0,Surat,B.Arch,200000,Designing,Graphic Designer
+0,Pune,B.Arch,400000,Designing,Design Engineer
+0,Mohali,B.Arch,80000,Designing,Graphic Designer
+0,Noida,B.Arch,200000,Designing,Industrial Designer
+0,Banglore,B.Arch,500000,Teaching ,Assistant Professor
+0,Delhi,B.Com,350000,Banking,Data Entry Operator
+1,Lucknow,B.Com,400000,Banking,HDFC Bank Operator
+0,Hyderabad,B.Pharm,125000,Pharmacy,Pharmacist
+0,Nasik,B.Pharm,100000,Pharmacy,Pharmacist
+0,Kolkata,B.Pharm,100000,Pharmacy,Pharma Support Aide
+0,Mumbai,B.Pharm,200000,Pharmacy,Pharmacist
+0,Gurgaon,B.Pharm,200000,Pharmacy,Pharmacist
+0,Banglore,B.Pharm,100000,Pharmacy,Pharmacist Assistant
+0,Hyderabad,B.Pharm,100000,Pharmacy,Hospital Pharmacist
+0,Mumbai,MBBS,200000,Medicine,Assistant Doctor
+2,Faridabad,MBBS,200000,Medicine,Senior Residant Doctor-Radiology
+0,Banglore,MBBS,200000,Medicine,Duty Doctor
+0,Banglore,MBBS,200000,Medicine,Duty Doctor
+2,Faridabad,MBBS,200000,Medicine,Attending Consultant-Neurology
+2,Faridabad,MBBS,200000,Medicine,Associate Consultant-Neurology
+0,Banglore,MBBS,200000,Medicine,Phisician Assistant
+0,Banglore,MBBS,200000,Medicine,Phisician Assistant
+2,Faridabad,MBBS,200000,Medicine,Attending Consultant-Nephrology
+0,Mumbai,MBBS,200000,Medicine,Registrar-Obstetrics and Gynaechology
+2,Faridabad,MBBS,200000,Medicine,Attending Consultant-Urology
+0,Mumbai,MBBS,200000,Medicine,Clinical Associate Obstetrics and Gynaecology
+2,Faridabad,MBBS,200000,Medicine,Associate Consultant-Urology
+2,Faridabad,MBBS,200000,Medicine,Associate Consultant-Nephrology
+0,Hyderabad,MBBS,100000,Medicine,DMOs
+1,Hyderabad,MBBS,200000,Medicine,Doctor
+2,Banglore,MBBS,300000,Medicine,Doctor
+0,Gurgaon,BDS,100000,Dentistry,Dental Officer
+0,Mumbai,LLB,200000,Law,Charated Accountant
+0,Banglore,LLB,200000,Law,Associate Content Writer-Law and Order
+2,Noida,LLB,100000,Law,Temporary Associate
+1,Delhi,LLB,200000,Law,Talent Advocate
+0,Gurgaon,BJMC,100000,Journalism,Crypto Journalist
+0,Delhi,BJMC,300000,Journalism,Automobile Journalist
+1,Mumbai,BJMC,100000,Journalism,Jr.Content Writer
+0,Delhi,BJMC,100000,Journalism,Content Writer
+0,Kolkata,BJMC,200000,Journalism,Content Writer
+0,Delhi,BJMC,200000,Journalism,Tech Journalist
+0,Noida,BJMC,200000,Journalism,Content Writer
+0,Hyderabad,BJMC,200000,Journalism,Content Writer
+0,Gurgaon,BJMC,200000,Journalism,Content Writer
+0,Lucknow,BHM,200000,Hotel Management,Management Trainee
+0,Mumbai,BHM,250000,Hotel Management,Reservation Officer
+0,Mumbai,BHM,200000,Hotel Management,Bartender
+0,Mumbai,BHM,200000,Hotel Management,Barista at Cafe
+3,Coimbatore,BHM,200000,Hotel Management,House Keeper
+2,Mumbai,BHM,200000,Hotel Management,Assistant Restaurant Manager
+2,Mumbai,BHM,200000,Hotel Management,Restaurant Manager
+0,Banglore,BHM,200000,Hotel Management,Social Media Executive
+2,Mumbai,BHM,200000,Hotel Management,Chef
+1,Hyderabad,BHM,200000,Hotel Management,South Indian Chef

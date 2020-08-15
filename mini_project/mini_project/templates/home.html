@@ -1,0 +1,46 @@
+{% extends 'base.html'%}
+{% block content %}
+<div id='content'>
+<h1>GET JOB</h1>
+<form method="post"  action="add">
+ {% csrf_token %}
+ <div ><label for="lname">Enter Location:</label> </div> <input type="text" id="lname" name="Location"  value={{temp.Location}}><br><br>
+ <div ><label for="fname">Enter Sector:</label> </div> <input name="Category" type="text" value={{temp.Category}}><br><br>
+ <div ><label for="fname">Enter Salary:</label> </div> <input type="text" id="fname" name="Salary" value={{temp.Salary}}><br><br>
+ <div ><label for="lname">Enter Qualification:</label> </div> <input type="text" id="lname" name="Qualification"  value={{temp.Qualification}}><br><br>
+ <div ><label for="lname">Enter Experience:</label> </div> <input type="text" id="lname" name="Experience"  value={{temp.Experience}}><br><br>
+ <br>
+ <input class='butn' type="submit" value="Submit" >
+</div>
+<style>
+    #content{
+        width: 25%;
+        min-width: 300px;
+        height: auto;
+        text-align: center;
+        margin:auto;
+        margin-top: 10%;
+        border:2px solid black;
+        border-radius: 3%;
+        padding: 2%;
+        background-color: rgb(221, 205, 218);
+    }
+    input{
+        width:90%;
+        border-radius: 5px;
+        height:20px;
+        background-color: rgb(191, 142, 224);
+    }
+    label{
+        font:bold;
+        font-size: 150%;
+    }
+    .butn{
+        background-image:linear-gradient(to bottom right,purple ,white,blue);
+        height:25px;
+        border-radius: 10px;
+        font-size: 125%;
+        font:bold;
+    }
+</style>
+{% endblock %}
